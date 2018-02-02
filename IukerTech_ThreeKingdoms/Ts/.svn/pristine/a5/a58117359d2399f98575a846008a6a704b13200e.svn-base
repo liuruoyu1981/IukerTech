@@ -1,0 +1,33 @@
+﻿/// <reference path="../Declare/Module/ViewModule_Declare.ts" />
+
+
+export class ViewModule {
+
+    /**
+     * 获得指定视图id的视图对象。
+     * @param viewId 目标视图的身份id。
+     */
+    public static GetView(viewId: string): IJintView {
+        var view = Iuker_ViewModule_GetView(viewId);
+        return view;
+    }
+
+    /**
+     * 创建指定视图身份Id的目标视图。
+     * @param viewId 目标视图的身份。
+     */
+    public static CreateView(viewId: string, assetId: string = null, isCache: boolean = true): void {
+        Iuker_ViewModule_CreateView(viewId, assetId, isCache);
+    }
+
+    /**
+     * 获得一个C#层面注入的JintView实例，用于视图控件初始化。
+     * @param viewId 目标视图的身份。
+     */
+    public static GetJintView(viewId: string): IJintView {
+
+        let v = Iuker_ViewModule_GetJintView(viewId);
+        return v;
+    }
+
+}

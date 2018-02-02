@@ -1,0 +1,3 @@
+C:\Yu\Assets\_IukerTech\IukerTech_ThreeKingdoms\Ts\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Yu\Assets\_IukerTech\IukerTech_ThreeKingdoms\Ts\obj\Debug\IukerTech_ThreeKingdoms.Ts.njsprojResolveAssemblyReference.cache
+C:\Yu\Assets\_IukerTech\IukerTech_ThreeKingdoms\Ts\obj\Debug\IukerTech_ThreeKingdoms.Ts.njsproj.CoreCompileInputs.cache

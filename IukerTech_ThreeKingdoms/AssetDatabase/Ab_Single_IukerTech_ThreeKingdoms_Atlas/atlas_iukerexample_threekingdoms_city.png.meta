@@ -1,0 +1,1436 @@
+fileFormatVersion: 2
+guid: 7228f6c9c3eb1ea40830c244ff289726
+timeCreated: 1507076937
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barrier_blue_dark
+    21300002: barrier_blue_light
+    21300004: barrier_bluishviolet_dark
+    21300006: barrier_bluishviolet_light
+    21300008: barrier_brownness_dark
+    21300010: barrier_brownness_light
+    21300012: barrier_cyan_dark
+    21300014: barrier_cyan_light
+    21300016: barrier_darkgreen_dark
+    21300018: barrier_darkgreen_light
+    21300020: barrier_grey_dark
+    21300022: barrier_grey_light
+    21300024: barrier_lightgreen_dark
+    21300026: barrier_lightgreen_light
+    21300028: barrier_prunosus_dark
+    21300030: barrier_prunosus_light
+    21300032: barrier_puce_dark
+    21300034: barrier_puce_light
+    21300036: barrier_purple_dark
+    21300038: barrier_purple_light
+    21300040: barrier_red_dark
+    21300042: barrier_red_light
+    21300044: barrier_yellow_dark
+    21300046: barrier_yellow_light
+    21300048: county_blue_dark
+    21300050: county_blue_light
+    21300052: county_bluishviolet_dark
+    21300054: county_bluishviolet_light
+    21300056: county_brownness_dark
+    21300058: county_brownness_light
+    21300060: county_cyan_dark
+    21300062: county_cyan_light
+    21300064: county_darkgreen_dark
+    21300066: county_darkgreen_light
+    21300068: county_grey_dark
+    21300070: county_grey_light
+    21300072: county_lightgreen_dark
+    21300074: county_lightgreen_light
+    21300076: county_prunosus_dark
+    21300078: county_prunosus_light
+    21300080: county_puce_dark
+    21300082: county_puce_light
+    21300084: county_purple_dark
+    21300086: county_purple_light
+    21300088: county_red_dark
+    21300090: county_red_light
+    21300092: county_yellow_dark
+    21300094: county_yellow_light
+    21300096: shire_blue_light
+    21300098: shire_bluishviolet_dark
+    21300100: shire_bluishviolet_light
+    21300102: shire_brownness_dark
+    21300104: shire_brownness_light
+    21300106: shire_bule_dark
+    21300108: shire_cyan_dark
+    21300110: shire_cyan_light
+    21300112: shire_darkgreen_dark
+    21300114: shire_darkgreen_light
+    21300116: shire_grey_dark
+    21300118: shire_grey_light
+    21300120: shire_lightgreen_dark
+    21300122: shire_lightgreen_light
+    21300124: shire_prunosus_dark
+    21300126: shire_prunosus_light
+    21300128: shire_puce_dark
+    21300130: shire_puce_light
+    21300132: shire_purple_dark
+    21300134: shire_purple_light
+    21300136: shire_red_dark
+    21300138: shire_red_light
+    21300140: shire_yellow_dark
+    21300142: shire_yellow_light
+    21300144: state_blue_dark
+    21300146: state_blue_light
+    21300148: state_bluishviolet_dark
+    21300150: state_bluishviolet_light
+    21300152: state_brownness_dark
+    21300154: state_brownness_light
+    21300156: state_cyan_dark
+    21300158: state_cyan_light
+    21300160: state_darkgreen_dark
+    21300162: state_darkgreen_light
+    21300164: state_grey_dark
+    21300166: state_grey_light
+    21300168: state_lightgreen_dark
+    21300170: state_lightgreen_light
+    21300172: state_prunosus_dark
+    21300174: state_prunosus_light
+    21300176: state_puce_dark
+    21300178: state_puce_light
+    21300180: state_purple_dark
+    21300182: state_purple_light
+    21300184: state_red_dark
+    21300186: state_red_light
+    21300188: state_yellow_dark
+    21300190: state_yellow_light
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrier_blue_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_blue_light
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_bluishviolet_dark
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_bluishviolet_light
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_brownness_dark
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_brownness_light
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_cyan_dark
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_cyan_light
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_darkgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 465
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_darkgreen_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_grey_dark
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_grey_light
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_lightgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_lightgreen_light
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_prunosus_dark
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_prunosus_light
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_puce_dark
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_puce_light
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_purple_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_purple_light
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 399
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_red_dark
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 399
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_red_light
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 399
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_yellow_dark
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 399
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: barrier_yellow_light
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 399
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_blue_dark
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 398
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_blue_light
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 398
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_bluishviolet_dark
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 398
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_bluishviolet_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_brownness_dark
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 365
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_brownness_light
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 365
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_cyan_dark
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 365
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_cyan_light
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 365
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_darkgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 364
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_darkgreen_light
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 364
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_grey_dark
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 364
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_grey_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_lightgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 331
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_lightgreen_light
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 331
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_prunosus_dark
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 331
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_prunosus_light
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 331
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_puce_dark
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 330
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_puce_light
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 330
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_purple_dark
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 330
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_purple_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_red_dark
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 297
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_red_light
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 297
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_yellow_dark
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 297
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: county_yellow_light
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 297
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_blue_light
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 291
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_bluishviolet_dark
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 291
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_bluishviolet_light
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 291
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_brownness_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_brownness_light
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 258
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_bule_dark
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 258
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_cyan_dark
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 252
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_cyan_light
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 252
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_darkgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 252
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_darkgreen_light
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 252
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_grey_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_grey_light
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 219
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_lightgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 219
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_lightgreen_light
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 213
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_prunosus_dark
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 213
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_prunosus_light
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 213
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_puce_dark
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 213
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_puce_light
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_purple_dark
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 180
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_purple_light
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_red_dark
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_red_light
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_yellow_dark
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 174
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shire_yellow_light
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 174
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_blue_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_blue_light
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_bluishviolet_dark
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_bluishviolet_light
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 131
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_brownness_dark
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 131
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_brownness_light
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 131
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_cyan_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_cyan_light
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 94
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_darkgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 88
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_darkgreen_light
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 88
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_grey_dark
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_grey_light
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 88
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_lightgreen_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_lightgreen_light
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 51
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_prunosus_dark
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 45
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_prunosus_light
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 45
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_puce_dark
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 45
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_puce_light
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 45
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_purple_dark
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_purple_light
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_red_dark
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_red_light
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_yellow_dark
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: state_yellow_light
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+﻿interface IGetContainer {
+    (path: string): IGameObject;
+}
+

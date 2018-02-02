@@ -1,0 +1,13 @@
+﻿/// <reference path="../../Declare/Module/MusicModule_Declare.ts" />
+
+export class MusicModule {
+
+    /**
+    * 播放音乐。
+    * @param {string} name - 要播放的音乐资源名。
+    */
+    public static Play(name: string, isCache: boolean = true, isLoop: boolean = true): void {
+        Iuker_MusicModule_Play(name, isCache, isLoop);
+    }
+
+}

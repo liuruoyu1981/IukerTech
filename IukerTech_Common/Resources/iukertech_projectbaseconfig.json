@@ -1,0 +1,158 @@
+{
+    "WxBundleId": "",
+    "WxAppId": "",
+    "HotUpdateHttpServerUrl": "http://127.0.0.1/",
+    "SoundEffectVolume": 0.5,
+    "DefaultClickSound": "iukertech_threekingdoms_soundeffect_click",
+    "MusicVolume": 0.5,
+    "Logers": [ "Default" ],
+    "IsPlayStartVideo": false,
+    "IsUseLuaModule": false,
+    "IsUseLocalServer": true,
+    "WlanServers": [
+        {
+            "Name": "Default",
+            "Port": 8888,
+            "Url": "www.baidu.com"
+        }
+    ],
+    "LocalServer": {
+        "Name": "",
+        "Port": 8888,
+        "Url": "192.168.1.168"
+    },
+    "Modules": [
+        {
+            "ModuleType": "IU3dAppEventModule",
+            "CsharpType": "DefaultU3dModule_Event",
+            "JintType": "U3dJintModule_Event",
+            "LaucherIndex": 1
+        },
+        {
+            "ModuleType": "IU3dHotUpdateModule",
+            "CsharpType": "DefaultU3dModule_HotUpdate",
+            "JintType": "",
+            "LaucherIndex": 2
+        },
+        {
+            "ModuleType": "IU3dAssetModule",
+            "CsharpType": "DefaultU3dModule_Asset",
+            "JintType": "",
+            "LaucherIndex": 3
+        },
+        {
+            "ModuleType": "IU3dJavaScriptModule",
+            "CsharpType": "DefaultU3dModule_JavaScript",
+            "JintType": "",
+            "LaucherIndex": 4
+        },
+        {
+            "ModuleType": "IU3dViewModule",
+            "CsharpType": "DefaultU3dModule_View",
+            "JintType": "U3dJintModule_View",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dRouterModule",
+            "CsharpType": "DefaultIu3DModule_Router",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dLocalDataModule",
+            "CsharpType": "DefaultU3dModule_LocalData",
+            "JintType": "U3dJintModule_LocalData",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dDataModule",
+            "CsharpType": "DefaultU3dModule_Data",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dIl8nModule",
+            "CsharpType": "DefaultU3dModule_Il8n",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dInjectModule",
+            "CsharpType": "DefaultU3dModule_Inject",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dInputResponseModule",
+            "CsharpType": "DefaultU3dModule_InputResponse",
+            "JintType": "U3dJintModule_InputResponser",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dMusicModule",
+            "CsharpType": "DefaultU3dModule_Music",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dSoundEffectModule",
+            "CsharpType": "DefaultU3dModule_SoundEffect",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dManagerModule",
+            "CsharpType": "DefaultU3dModule_Manager",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dVideoModule",
+            "CsharpType": "DefaultU3dModule_Video",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dTimerModule",
+            "CsharpType": "DefaultU3dModule_Timer",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dHttpModule",
+            "CsharpType": "DefaultU3dModule_Http",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dSocketModule",
+            "CsharpType": "DefaultU3dModule_Socket",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dReactiveDataModelModule",
+            "CsharpType": "DefaultU3dModule_ReactiveDataModel",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dTestModule",
+            "CsharpType": "DefaultU3dModule_Test",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dDebuggerModule",
+            "CsharpType": "DefaultU3dModule_Debugger",
+            "JintType": "",
+            "LaucherIndex": 9999
+        },
+        {
+            "ModuleType": "IU3dProfilerModule",
+            "CsharpType": "DefaultU3dModule_Profiler",
+            "JintType": "",
+            "LaucherIndex": 9999
+        }
+    ]
+}

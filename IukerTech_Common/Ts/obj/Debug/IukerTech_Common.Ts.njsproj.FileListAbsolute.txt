@@ -1,0 +1,2 @@
+C:\Yu\Assets\_IukerTech\IukerTech_Common\Ts\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Yu\Assets\_IukerTech\IukerTech_Common\Ts\obj\Debug\IukerTech_Common.Ts.njsproj.CoreCompileInputs.cache

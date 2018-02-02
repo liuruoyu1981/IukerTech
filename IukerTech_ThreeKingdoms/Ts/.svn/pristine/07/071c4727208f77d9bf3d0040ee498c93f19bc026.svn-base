@@ -1,0 +1,4 @@
+﻿//  视图模块
+declare function Iuker_ViewModule_CreateView(viewId: string, assetId: string, isCache: boolean): void;
+declare function Iuker_ViewModule_GetView(viewId: string): IJintView;
+declare function Iuker_ViewModule_GetJintView(viewId: string): IJintView;

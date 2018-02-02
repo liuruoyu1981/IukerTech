@@ -1,0 +1,14 @@
+﻿/// <reference path="../Declare/Module/SoundEffectModule_Declare.ts" />
+
+export class SoundEffectModule {
+
+    /**
+     *  播放音效
+     *  @param {string} name - 要播放的音效资源名。
+    */
+    public static Play(name: string): void {
+        Iuker_SoundEffectModule_Play(name);
+    }
+
+}
+
